@@ -5,7 +5,7 @@ Demonstration of how to use the k8s.io/apiserver library to build a functional A
 **Note:** go-get or vendor this package as `k8s.io/sample-apiserver`.
 
 ## Purpose
-
+ii
 You may use this code if you want to build an Extension API Server to use with API Aggregation, or to build a stand-alone Kubernetes-style API server.
 
 However, consider two other options:
